@@ -1,4 +1,4 @@
 "AadClientId": "f7b530e8-665f-43be-a182-491afb1b667d",   
 "AadSecret": "DSM8Q~ERBtdfRTeeY17-DpeQkwltS5ppu3Kx5agv",   
-"AadTenantDomain": "unicredit.eu",   
+"AadTenantDomain": "unicredit.onmicrosoft.com",   
 "AadTenantId": "2cc49ce9-66a1-41ac-a96b-bdc54247696a"
